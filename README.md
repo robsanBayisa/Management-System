@@ -1,2 +1,2 @@
 # EmployeeManagementSystem
- Employee Management System in JavaFX
+ Employee Management System in Java
